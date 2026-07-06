@@ -1,0 +1,17 @@
+{
+    "title": "Mathematics: The Complex Plane",
+    "slug": "maths-complex-plane",
+    "description": "Introduces the complex plane (Argand diagram), plotting a complex number as a point whose horizontal and vertical coordinates are its real and imaginary parts, and interpreting the modulus as distance from the origin.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "maths"
+    ],
+    "duration": 2,
+    "prerequisites": [
+        "maths-complex-numbers"
+    ],
+    "related": [
+    ]
+}
