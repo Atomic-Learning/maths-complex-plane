@@ -23,7 +23,7 @@ ax.set_title('The Complex Plane (Argand Diagram)', fontsize=14, fontweight='bold
 
 # Define some example complex numbers
 examples = [
-    (2, 0, '2'),
+    (3, 0, '3'),
     (0, 2, '2i'),
     (1, 1, '1 + i'),
     (2, 1.5, '2 + 1.5i'),
