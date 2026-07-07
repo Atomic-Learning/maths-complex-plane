@@ -1,10 +1,4 @@
-## Representing Complex Numbers Geometrically
-
-A complex number $z = x + iy$ can be visualized as a point in a two-dimensional plane called the **complex plane** or **Argand diagram**, named after mathematician Jean-Robert Argand. This geometric representation provides intuitive insight into complex number operations and properties.
-
-### The Complex Plane
-
-The complex plane is a coordinate system where:
+A complex number $z = x + iy$ can be visualized as a point in a two-dimensional plane called the **complex plane** or **Argand diagram**, named after mathematician Jean-Robert Argand. This geometric representation provides intuitive insight into complex number operations and properties. In the complex plane, the coordinates of a point correspond to the real and imaginary parts of a complex number:
 
 - The **horizontal axis** (also called the real axis) represents the real part of a complex number
 - The **vertical axis** (also called the imaginary axis) represents the imaginary part of a complex number
