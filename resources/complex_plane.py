@@ -5,7 +5,6 @@ Outputs to complex-plane.png in the same directory.
 """
 
 import matplotlib.pyplot as plt
-import numpy as np
 
 # Create figure and axis
 fig, ax = plt.subplots(1, 1, figsize=(9, 9), dpi=150)
@@ -19,7 +18,6 @@ ax.axvline(x=0, color='k', linewidth=1.5)
 # Add axis labels
 ax.set_xlabel('Real Part (Re)', fontsize=12, fontweight='bold')
 ax.set_ylabel('Imaginary Part (Im)', fontsize=12, fontweight='bold')
-ax.set_title('The Complex Plane (Argand Diagram)', fontsize=14, fontweight='bold', pad=20)
 
 # Define some example complex numbers
 examples = [
